@@ -2,3 +2,4 @@
 Image Processing (Video)
 
 In this project we had to count money from a video.
+Using opencv and C
